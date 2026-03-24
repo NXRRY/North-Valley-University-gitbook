@@ -1,2 +1,1 @@
-# North-Valley-University-gitbook
-gitbook
+## 📢 ประกาศจากสภานักศึกษา: ยินดีต้อนรับนักศึกษาใหม่ทุกท่าน!
