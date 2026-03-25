@@ -15,4 +15,4 @@
 ## 🛠️ คู่มือการใช้งาน (Tutorials)
 
 * [⌨️ ปุ่มกดและคำสั่งพื้นฐาน](tutorials/keybinds.md)
-* [🚗 ระบบ parking](tutorials/parkingsystem.md)
+* [🚗 ระบบการจอดรถ](tutorials/parkingsystem.md)
