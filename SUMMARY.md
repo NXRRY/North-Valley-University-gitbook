@@ -14,4 +14,4 @@
 
 ## 🛠️ คู่มือการใช้งาน (Tutorials)
 
-* [⌨️ ปุ่มกดและคำสั่งพื้นฐาน](tutorials/undefined.md)
+* [⌨️ ปุ่มกดและคำสั่งพื้นฐาน](tutorials/keybinds.md)
