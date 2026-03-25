@@ -5,7 +5,7 @@
 ---
 
 ### 💬 ศูนย์รวมชุมชน (Main Hub)
-* **Discord (Official):** [คลิกที่นี่เพื่อเข้าสู่ Discord](https://discord.gg/XCVENp5P7m)
+* **Discord (Official):** [คลิกที่นี่เพื่อเข้าสู่ Discord](https://discord.gg/WZ4PhSkXdV)
   * *ช่องทางหลัก: แจ้งปัญหา (Ticket), สัมภาษณ์ Whitelist และพูดคุยกับสภานักศึกษา*
 
 ### 📱 สื่อสังคมออนไลน์ (Social Media)
