@@ -8,9 +8,7 @@
 
 ขั้นตอนแรกคือการเชื่อมต่อกับสภานักศึกษาและประกาศข่าวสารทั้งหมด
 
-* **Link Discord:** [Discord](https://discord.gg/WZ4PhSkXdV)
-
-{% embed url="https://discord.gg/WZ4PhSkXdV" %}
+{% include "../.gitbook/includes/untitled.md" %}
 
 ### 2. ศึกษาข้อมูลและกฎระเบียบ (Essential Reading)
 
