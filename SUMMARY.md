@@ -19,7 +19,7 @@
 
 ## 🚔 ระเบียบการปฏิบัติหน้าที่ (LSUPD)
 
-* [🛡️ ขอบข่ายหน้าที่และความรับผิดชอบ](pd/jurisdiction.md)
-* [⚖️ หลักการใช้กฎหมายและสิทธิประชาชน](pd/legal-standards.md)
-* [👊 ขั้นตอนการใช้กำลัง (Use of Force)](pd/use-of-force.md)
-* [📝 แบบฟอร์มรายงานการปฏิบัติงาน](pd/reports.md)
+* [🛡️ ขอบข่ายหน้าที่และความรับผิดชอบ](lsupd/undefined.md)
+* [⚖️ หลักการใช้กฎหมายและสิทธิประชาชน](lsupd/undefined-1.md)
+* [👊 ขั้นตอนการใช้กำลัง (Use of Force)](lsupd/use-of-force.md)
+* [📝 แบบฟอร์มรายงานการปฏิบัติงาน](lsupd/undefined-2.md)
