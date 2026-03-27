@@ -17,6 +17,9 @@
 * [⌨️ ปุ่มกดและคำสั่งพื้นฐาน](tutorials/keybinds.md)
 * [🚗 ระบบการจอดรถ](tutorials/parkingsystem.md)
 
-## กฏหมาย การทำงาน ของ pd
+## 🚔 ระเบียบการปฏิบัติหน้าที่ (LSUPD)
 
-* [Page 1](pd/page-1.md)
+* [🛡️ ขอบข่ายหน้าที่และความรับผิดชอบ](pd/jurisdiction.md)
+* [⚖️ หลักการใช้กฎหมายและสิทธิประชาชน](pd/legal-standards.md)
+* [👊 ขั้นตอนการใช้กำลัง (Use of Force)](pd/use-of-force.md)
+* [📝 แบบฟอร์มรายงานการปฏิบัติงาน](pd/reports.md)
