@@ -14,6 +14,7 @@
 * [🚗 ระบบการจอดรถ](tutorials/parkingsystem.md)
 * [👕 ระบบจัดการตัวละคร (Appearance)](tutorials/appearance.md)
 * [💰 ระบบสวัสดิการและโบนัส (Paycheck)](tutorials/paycheck.md)
+* [🖼️ ระบบแปะป้ายข้อความ (Scenes)](tutorials/scenes.md)
 
 ## ⚖️ กฎระเบียบสังคม (Rules)
 
