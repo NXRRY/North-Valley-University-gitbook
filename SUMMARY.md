@@ -16,3 +16,7 @@
 
 * [⌨️ ปุ่มกดและคำสั่งพื้นฐาน](tutorials/keybinds.md)
 * [🚗 ระบบการจอดรถ](tutorials/parkingsystem.md)
+
+## กฏหมาย การทำงาน ของ pd
+
+* [Page 1](pd/page-1.md)
