@@ -12,6 +12,7 @@
 * [⌨️ ปุ่มกดและคำสั่งพื้นฐาน](tutorials/keybinds.md)
 * [🤝 ระบบการรู้จักและตัวตน](tutorials/identity.md)
 * [🚗 ระบบการจอดรถ](tutorials/parkingsystem.md)
+* [🔧 ระบบปรับแต่งยานพาหนะ (Mechanic)](tutorials/mechanic.md)
 * [👕 ระบบจัดการตัวละคร (Appearance)](tutorials/appearance.md)
 * [💰 ระบบสวัสดิการและโบนัส (Paycheck)](tutorials/paycheck.md)
 * [🖼️ ระบบแปะป้ายข้อความ (Scenes)](tutorials/scenes.md)
