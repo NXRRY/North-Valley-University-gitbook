@@ -20,7 +20,7 @@
    * **Appearance:** ปรับค่าความเงา (Shadow), เส้นขอบ (Outline) และความโปร่งใส (Opacity)
 4. **ตรวจสอบก่อนวาง:** ระบบจะแสดงตัวอย่าง (Preview) ให้เห็นทันทีขณะปรับแต่ง เมื่อพอใจแล้วจึงกดยืนยันเพื่อวางป้าย
 
-<div><figure><img src="../.gitbook/assets/image (1).png" alt="" width="197"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (1).png" alt="" width="98"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ***
 
