@@ -10,6 +10,7 @@
 ## 🛠️ คู่มือการใช้งาน (Tutorials)
 
 * [⌨️ ปุ่มกดและคำสั่งพื้นฐาน](tutorials/keybinds.md)
+* [🤝 ระบบการรู้จักและตัวตน](tutorials/identity.md)
 * [🚗 ระบบการจอดรถ](tutorials/parkingsystem.md)
 * [👕 ระบบจัดการตัวละคร (Appearance)](tutorials/appearance.md)
 
