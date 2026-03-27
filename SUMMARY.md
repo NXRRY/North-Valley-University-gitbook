@@ -11,6 +11,7 @@
 
 * [⌨️ ปุ่มกดและคำสั่งพื้นฐาน](tutorials/keybinds.md)
 * [🚗 ระบบการจอดรถ](tutorials/parkingsystem.md)
+* [👕 ระบบจัดการตัวละคร (Appearance)](tutorials/appearance.md)
 
 ## ⚖️ กฎระเบียบสังคม (Rules)
 
