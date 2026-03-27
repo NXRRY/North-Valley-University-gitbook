@@ -14,7 +14,7 @@
 
 * **หมายเหตุ:** ระบบจะบันทึกค่าน้ำมัน, สภาพเครื่องยนต์ และสภาพตัวถังไว้ทั้งหมด
 
-<div><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -27,11 +27,11 @@
 
 Ex . ใช่ eye target มองไปที่รถที่จอดอยู่
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ex . ใช่ **Radial Menu ไปที่รายการรถ และ เลือกรถที่อยู่ในระบบจอด**
 
-<div><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
