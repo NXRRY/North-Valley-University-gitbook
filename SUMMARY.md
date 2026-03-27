@@ -13,6 +13,7 @@
 * [🤝 ระบบการรู้จักและตัวตน](tutorials/identity.md)
 * [🚗 ระบบการจอดรถ](tutorials/parkingsystem.md)
 * [👕 ระบบจัดการตัวละคร (Appearance)](tutorials/appearance.md)
+* [💰 ระบบสวัสดิการและโบนัส (Paycheck)](tutorials/paycheck.md)
 
 ## ⚖️ กฎระเบียบสังคม (Rules)
 
