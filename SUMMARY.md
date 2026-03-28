@@ -28,3 +28,4 @@
 * [⚖️ หลักการใช้กฎหมายและสิทธิประชาชน](lsupd/legal-standards.md)
 * [👊 ขั้นตอนการใช้กำลัง (Use of Force)](lsupd/use-of-force.md)
 * [📝 แบบฟอร์มรายงานการปฏิบัติงาน](lsupd/reports.md)
+* [📜 ประมวลกฎหมายเมือง North Valley](lsupd/laws.md)
